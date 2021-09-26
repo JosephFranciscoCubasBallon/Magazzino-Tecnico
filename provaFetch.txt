@@ -1,1 +1,9 @@
 Sto provando a fare un fetch nella gitbash per vedere i cambiamenti fatti su github che non ho nella repository locale
+
+
+--------------------------------------
+
+ora provo ad essere davanti di nuovo (modifico qui cosi che mi dia un errore quando voglio fare un commit da gitbash)
+--------------------------------------
+
+faccio un'ulteriore modifica
