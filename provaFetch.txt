@@ -7,3 +7,8 @@ ora provo ad essere davanti di nuovo (modifico qui cosi che mi dia un errore qua
 --------------------------------------
 
 faccio un'ulteriore modifica
+
+
+-----------------------------
+
+adesso provo a fare una modifica per fare un branch su gitbash e poi fare il merge nel main
